@@ -4,6 +4,9 @@
 ## Three commands to push a file to GitHub:
 	1. git add filename 
 	2. git commit -m "Message text"
-	3. git push origin main 
+	3. git push origin <branch-name> 
+
+### Command to pull a file:
+	git pull <branch name>
 
 
