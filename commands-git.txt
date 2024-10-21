@@ -9,4 +9,8 @@
 ### Command to pull a file:
 	git pull <branch name>
 
+#### Command to create a new branch and to switch to it:
+	git checkout -b <new branch name>
+	git switch <branch-name>
+
 
