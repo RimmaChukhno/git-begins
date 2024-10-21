@@ -1,0 +1,9 @@
+# Git cloning command:
+	git clone repository address
+
+## Three commands to push a file to GitHub:
+	1. git add filename 
+	2. git commit -m "Message text"
+	3. git push origin main 
+
+
